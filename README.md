@@ -4,7 +4,7 @@ Mini-projects for the residential training. As part of the EANBiT Residential tr
 
 ## Projects
 1. [Project 1: Reproduce Published ONT pipeline](reproduce_Published_ONT_pipeline.md)
-2. [Project 2: Genomic characterisation of Escherichia coli isolates from rural drinking water systems](Genomic_characterisation_of_Escherichia coli_ isolates_from_rural_drinking_water_systems.md)
+2. [Project 2: Genomic characterisation of Escherichia coli isolates from rural drinking water systems](Genomic_characterisation_of_Escherichia_coli_isolates_from_rural_drinking_water_systems.md)
 3. [Project 3: Interrogating public datasets and paths to results on Covid19 in East Africa](Interrogating_public_datasets_and_paths_to_results_on_Covid19.md)
 4. [Project 4: Origin of antimicrobial resistance Escherichia coli isolates in a Pastoralist Community using Whole genome sequences data](Origin_of_antimicrobial_resistance_Escherichia_coli_isolates.md)
 5. [Project 5: RNA-Seq data processing and gene expression analysis workflow](RNA-Seq_workflow.md)
